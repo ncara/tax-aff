@@ -1,2 +1,6 @@
 # tax-aff
-Repository of scripts used ofr taxonomic affiliation
+Repository of scripts used for taxonomic affiliation
+
+
+randomut.py
+it randomly mutates amino acids in the selected region
